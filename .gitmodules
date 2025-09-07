@@ -1,0 +1,3 @@
+[submodule "deps/modernlib"]
+	path = deps/modernlib
+	url = git@github.com:djndl1/modernlib.git
